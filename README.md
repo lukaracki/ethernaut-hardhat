@@ -1,14 +1,12 @@
-# Ethernauts + Hardhat Levels 6 - 12
-
-A small repo that containts the solutions for the Ethernauts levels 6 - 12. The solutions are written in Solidity and tested using Hardhat.
+Ethernauts + Hardhat Levels 6 - 12
+A small repo that contains the solutions for Ethernauts levels 6 - 12. The solutions are written in Solidity and tested using Hardhat.
 The levels are from the Ethernauts game, which can be found here: https://ethernaut.openzeppelin.com/
 
-I've solved all of the levels to figure out some of the security issues that can be found in Solidity smart contracts. I've also used this repo to learn how to use Hardhat.
+I've solved all of the levels to identify some of the security issues that can be found in Solidity smart contracts.
 
-## Ethernaut Levels
+Ethernaut Levels
+Ethernaut consists of a total of 28 levels. I've decided to solve them in the following environments:
 
-The ethernaut consits of a total of 28 levels. I've decided to solve them in the following environments:
-
-- 1-5 are solved using console and not included in this repo. (bceause of their simplicity)
-- 6-12 are solved using Hardhat and are included in this repo.
-- 13-28 are solved using Foundry and will be included in another repo in the future.
+Levels 1-5 are solvable using the console and are not included in this repo (due to their simplicity).
+Levels 6-12 are solved using Hardhat and are included in this repo.
+Levels 13-28 will be solved using Foundry and will be included in another repo in the future.
